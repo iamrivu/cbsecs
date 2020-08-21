@@ -1,0 +1,1 @@
+DELETE FROM `student_tbl` WHERE `student_tbl`.`id` = 6
